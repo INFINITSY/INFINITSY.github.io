@@ -109,7 +109,7 @@ author:
                      21
                      Huazhong Univ. of Sci. & Tech.
                      EIC
-                     
+
   location         : "Wuhan, China"
   email            : "sheyangtang@hust.edu.cn"
   links:
@@ -120,17 +120,17 @@ author:
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      icon: "/assets/images/twitter.jpg"
+      url: "https://twitter.com/INFINITSY97"
     - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      icon: "/assets/images/facebook.png"
+      url: "https://www.facebook.com/profile.php?id=100012951494680"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      icon: "/assets/images/github.png"
+      url: "https://github.com/INFINITSY"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      icon: "/assets/images/instagram.png"
+      url: "https://www.instagram.com/infinitsy/?hl=zh-cn"
 
 # Site Footer
 footer:
