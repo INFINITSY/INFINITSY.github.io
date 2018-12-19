@@ -23,7 +23,7 @@ description              : "An amazing website."
 url                      : "infinitsy.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "INFINITSY/INFINITSY.github.io"
-teaser                   : /assets/images/teaser.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/teaser.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -105,7 +105,11 @@ analytics:
 author:
   name             : "Sheyang Tang"
   avatar           : "/assets/images/photo.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "21\nHuazhong Univ. of Sci. & Tech.\nEIC"
+  bio              : | 
+                     21
+                     Huazhong Univ. of Sci. & Tech.
+                     EIC
+                     
   location         : "Wuhan, China"
   email            : "sheyangtang@hust.edu.cn"
   links:
