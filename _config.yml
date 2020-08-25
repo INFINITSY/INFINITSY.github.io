@@ -106,12 +106,11 @@ author:
   name             : "Sheyang Tang"
   avatar           : "/assets/images/photo.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : | 
-                     21
                      Huazhong Univ. of Sci. & Tech.
                      EIC
 
   location         : "Wuhan, China"
-  email            : "sheyangtang@hust.edu.cn"
+  email            : "sheyangtang@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
